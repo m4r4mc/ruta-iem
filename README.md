@@ -25,7 +25,7 @@ Sus marcas se guardan solo en su navegador (`localStorage`). La página no enví
 
 ## Actualizar los datos
 
-Si la Escuela cambia el plan de transición, las mallas o las equivalencias, hay que editar las constantes de datos al inicio del `<script>` de `index.html`. La guía está en [`docs/actualizar-datos.md`](docs/actualizar-datos.md).
+Si la Escuela cambia el plan de transición, las mallas o las equivalencias, hay que editar las constantes de datos al inicio del `<script>` de `index.html`. 
 
 ## Limitaciones
 
