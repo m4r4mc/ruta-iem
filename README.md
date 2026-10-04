@@ -2,7 +2,7 @@
 
 Herramienta web para estudiantes activos de Ingeniería en Mantenimiento Industrial (ITCR/TEC) que quieren trasladarse a Ingeniería Electromecánica a partir del I-2027.
 
-> **Aviso:** no es una herramienta oficial. Se basa en documentos públicos y en supuestos propios (ver [`docs/supuestos.md`](docs/supuestos.md)). Confirme siempre con la Escuela y con el Departamento de Admisión y Registro antes de matricular.
+> **Aviso:** no es una herramienta oficial. Se basa en documentos públicos y en supuestos propios. Confirme siempre con la Escuela y con el Departamento de Admisión y Registro antes de matricular.
 
 ## Qué hace
 
