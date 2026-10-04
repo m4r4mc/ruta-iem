@@ -22,28 +22,6 @@ Abra [`index.html`](index.html) en el navegador, o use la versión publicada en 
 
 Sus marcas se guardan solo en su navegador (`localStorage`). La página no envía datos a ningún servidor.
 
-## Publicarla con GitHub Pages
-
-1. En el repositorio: **Settings → Pages**.
-2. En *Source* elija **Deploy from a branch**, rama `main`, carpeta `/ (root)`.
-3. Guarde. En un par de minutos queda en `https://<usuario>.github.io/<nombre-del-repositorio>/`.
-
-## Estructura del repositorio
-
-```
-.
-├── index.html            Aplicación completa (HTML, CSS y JavaScript en un solo archivo)
-├── README.md             Este archivo
-├── LICENSE               Licencia
-├── .gitignore
-├── docs/
-│   ├── como-usar.md          Guía de uso para estudiantes
-│   ├── supuestos.md          Supuestos y limitaciones del cálculo
-│   ├── actualizar-datos.md   Cómo modificar mallas, equivalencias y fechas de apertura
-│   ├── fuentes.md            Documentos de donde salen los datos
-│   └── CHANGELOG.md          Historial de cambios
-└── versiones/            Versiones anteriores de la herramienta
-```
 
 ## Actualizar los datos
 
@@ -56,18 +34,3 @@ Si la Escuela cambia el plan de transición, las mallas o las equivalencias, hay
 - Los datos de énfasis y electivas deben verificarse contra el documento de la propuesta de la carrera.
 - No considera cupos, horarios ni disponibilidad real de grupos.
 
-## Fuentes
-
-Ver [`docs/fuentes.md`](docs/fuentes.md).
-
-## Contribuir
-
-Los errores en mallas, requisitos o fechas se pueden reportar como *issues*. Si propone una corrección, indique el documento y la página de donde sale.
-
-## Privacidad
-
-No suba al repositorio notas, capturas de matrícula ni documentos con datos de estudiantes.
-
-## Licencia
-
-MIT. Ver [`LICENSE`](LICENSE).
