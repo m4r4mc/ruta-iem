@@ -10,7 +10,7 @@ Herramienta web para estudiantes activos de Ingeniería en Mantenimiento Industr
 - Calcula el avance en Electromecánica: qué cursos se reconocen por equivalencia y cuántos créditos lleva.
 - Genera una ruta por semestre que tiene en cuenta:
   - cuándo abre cada curso de Electromecánica,
-  - hasta cuándo se ofrece cada curso de Mantenimiento,
+  - hasta cuándo se ofrece cada curso de Mante,
   - los requisitos y correquisitos de cada curso.
 - Permite escoger el semestre desde el que se planea, fijar un máximo de créditos (general o por semestre), quitar cursos de un semestre y agregarlos desde una lista de opcionales.
 - Funciona para solo bachillerato (135 créditos) o licenciatura (180) con los énfasis de Instalaciones, Aeronáutica o Sistemas ciberfísicos.
