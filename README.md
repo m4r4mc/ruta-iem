@@ -18,7 +18,7 @@ Herramienta web para estudiantes activos de Ingeniería en Mantenimiento Industr
 
 ## Cómo usarla
 
-Abra [`index.html`](index.html) en el navegador, o use la versión publicada en GitHub Pages (ver abajo). Las instrucciones paso a paso están en [`docs/como-usar.md`](docs/como-usar.md).
+Abra [`index.html`](index.html) en el navegador, o use la versión publicada en GitHub Pages (ver abajo). 
 
 Sus marcas se guardan solo en su navegador (`localStorage`). La página no envía datos a ningún servidor.
 
