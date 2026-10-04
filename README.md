@@ -22,11 +22,7 @@ Abra [`index.html`](index.html) en el navegador (funciona con doble clic, sin se
 
 Sus marcas se guardan solo en su navegador (`localStorage`). La página no envía datos a ningún servidor.
 
-## Publicarla con GitHub Pages
 
-1. En el repositorio: **Settings → Pages**.
-2. En *Source* elija **Deploy from a branch**, rama `main`, carpeta `/ (root)`.
-3. Guarde. En un par de minutos queda en <https://m4r4mc.github.io/ruta-iem/>.
 
 
 
