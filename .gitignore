@@ -1,12 +1,10 @@
-# Sistema
+#Sistema
 .DS_Store
 Thumbs.db
 desktop.ini
 
-# Editores
 .vscode/
 .idea/
 
-# Datos personales: nunca subir notas, capturas de matrícula ni documentos con datos de estudiantes
 *.personal.*
 notas-*
