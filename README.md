@@ -27,7 +27,7 @@ Sus marcas se guardan solo en su navegador (`localStorage`). La página no enví
 
 Si la Escuela cambia el plan de transición, las mallas o las equivalencias, hay que editar las constantes de datos al inicio del `<script>` de `index.html`. La guía está en [`docs/actualizar-datos.md`](docs/actualizar-datos.md).
 
-## Limitaciones conocidas
+## Limitaciones
 
 - Asume que los cursos de Electromecánica se ofrecen cada semestre después de su primera apertura. La guía solo indica la primera vez.
 - No incluye las electivas de Mantenimiento (por ejemplo MI6253 y MI6255), cuyos requisitos no aparecen en la malla publicada.
